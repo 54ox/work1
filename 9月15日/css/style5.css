@@ -1,0 +1,55 @@
+body{
+    background-color: bisque;
+}
+div {
+    position: relative;
+    margin-left: 145px;
+    height: 800px;
+    width: 1400px;
+    background-color: aqua;
+}
+.header {
+    width: 1400px;
+    height: 20%;
+    margin: auto;
+    position: absolute;
+    background-color: rgb(73, 111, 248);
+    
+}
+.footer {
+    position: absolute;
+    width: 1400px;
+    height: 10%;
+    bottom: 0;
+    margin: auto;
+    background-color: aquamarine;
+}
+#menu {
+    position: relative;
+    height: 558px;
+    margin-top: 160px;
+    margin-left: 0;
+    width: 220px;
+    float: left;
+    background-color: rgb(184, 11, 129);
+}
+#navbar {
+    position: absolute;
+    height: 120px;
+    width: 1400px;
+    margin: auto;
+    background-color: cornflowerblue;
+
+}
+#sidebar {
+    position: relative;
+    height: 558px;
+    margin-top: 160px;
+    margin-right: 0;
+    width: 220px;
+    float: right;
+    background-color: rgb(186, 23, 170);
+}
+h1 {
+    font-size: 30px;
+}

@@ -1,0 +1,38 @@
+body{
+    background-color: bisque;
+}
+div {
+    position: relative;
+    margin-left: 145px;
+    height: 800px;
+    width: 1400px;
+    background-color: aqua;
+}
+.header {
+    width: 1400px;
+    height: 20%;
+    margin: auto;
+    position: absolute;
+    background-color: rgb(73, 111, 248);
+    
+}
+.footer {
+    position: absolute;
+    width: 1400px;
+    height: 10%;
+    bottom: 0;
+    margin: auto;
+    background-color: aquamarine;
+}
+#menu {
+    position: relative;
+    height: 558px;
+    margin-top: 160px;
+    margin-left: 0;
+    width: 300px;
+    float: left;
+    background-color: darkgoldenrod;
+}
+h1 {
+    font-size: 30px;
+}

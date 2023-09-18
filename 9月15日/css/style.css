@@ -1,0 +1,17 @@
+body {
+    background-color: bisque;
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    margin-left: 145px;
+    height: 800px;
+    width: 1400px;
+    background-color: aqua;
+}
+h1 {
+    font-size: 30px;
+    
+}
+
